@@ -1,0 +1,7 @@
+const data=[{Author:"shoban",Title:"python",Heading:"introduction",Blog:"There are several ways to write data to Cloud Firestore: Set the data of a document within a collection, explicitly specifying a document identifier."}
+// ,{Author:"shoban",Title:"python",Heading:"introduction",Blog:"There are several ways to write data to Cloud Firestore: Set the data of a document within a collection, explicitly specifying a document identifier."},
+// {Author:"shoban",Title:"python",Heading:"introduction",Blog:"There are several ways to write data to Cloud Firestore: Set the data of a document within a collection, explicitly specifying a document identifier."},{Author:"shoban",Title:"python",Heading:"introduction",Blog:"There are several ways to write data to Cloud Firestore: Set the data of a document within a collection, explicitly specifying a document identifier."}
+// ,{Author:"shoban",Title:"python",Heading:"introduction",Blog:"There are several ways to write data to Cloud Firestore: Set the data of a document within a collection, explicitly specifying a document identifier."}
+// ,{Author:"shoban",Title:"python",Heading:"introduction",Blog:"There are several ways to write data to Cloud Firestore: Set the data of a document within a collection, explicitly specifying a document identifier."}
+];
+export default data;
